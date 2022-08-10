@@ -1,2 +1,2 @@
 # bookmark
- for bookmark
+ for bookmark using localStorage
